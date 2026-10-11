@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add_voice",
+    "name": "tone",
+    "wave": "triangle",
+    "freq": 740.0,
+    "gain": -16.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 65.0
+  },
+  {
+    "op": "set_pitch",
+    "voice": "tone",
+    "slide_to_hz": 1110.0,
+    "over_ms": 65.0
+  }
+]

@@ -1,0 +1,11 @@
+[[media]]
+file = "chain.json.gz"
+name = "Building the neon chain"
+
+[[media]]
+file = "live.png"
+name = "A circuit at x5"
+
+[[media]]
+file = "title.png"
+name = "Enter the grid"
