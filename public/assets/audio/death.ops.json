@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add_voice",
+    "name": "tone",
+    "wave": "saw",
+    "freq": 110.0,
+    "gain": -20.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 620.0
+  },
+  {
+    "op": "set_pitch",
+    "voice": "tone",
+    "slide_to_hz": 27.5,
+    "over_ms": 620.0
+  }
+]
